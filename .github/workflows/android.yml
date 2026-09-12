@@ -13,7 +13,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -o Maheshwari_Rakt_Daan_V31_SAFE_HEADER.zip -d android-project
+          unzip -o Maheshwari_Rakt_Daan_V34_PROFESSIONAL_LIVE.zip -d android-project
 
       - name: Setup Java
         uses: actions/setup-java@v4
